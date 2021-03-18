@@ -2,10 +2,10 @@ const //database
 	return `
 ╔══✪〘 INFO 〙✪══
 ║
-╠➥ 𝐃𝐀𝐑𝐊 𝐁𝐎𝐓
-╠➥ *3.0*
-╠➥ 𝐃𝐎𝐍𝐎:  ⃬⃗𝐷𝐴𝑅𝐾⃖  ☔
-╠➥ *wa.me/+5522996215481*
+╠➥ LIBID BOT
+╠➥ *1.0*
+╠➥ 𝐃𝐎𝐍𝐎:  ⃬⃗LIBID  ☔
+╠➥ *wa.me/+5527997619163*
 ╠➥ 𝐒𝐓𝐀𝐓𝐔𝐒: ON
 ║
 ╠══✪〘 NOVIDADES 〙✪══
@@ -24,7 +24,7 @@ const //database
 ║
 ╠══✪〘 MENU 〙✪══
 ║
-║11 *${prefix}figu*
+║11 *${prefix}figu ou f*
 ║12 *${prefix}toimg*
 ║13 *${prefix}meme*
 ║14 *${prefix}memeindo*
@@ -100,13 +100,7 @@ const //database
 ║
 ║76 *${prefix}simih 1 (para ativar)*
 ║77 *${prefix}simih 0 (para desativar)*
-║ *${prefix}simi (sua mensagem)*
-║
-╠══✪〘 EM TESTE 〙✪══
-║
-║78 *${prefix}*
-║79 *${prefix}*
-║80 *${prefix}*
+║78 *${prefix}simi (sua mensagem)*
 ║
 ╠══✪〘 PREMIUM 〙✪══
 ║
@@ -175,16 +169,15 @@ const //database
 ║
 ╠══✪〘 𝗗𝗢𝗡𝗢 〙✪══
 ║
-║ *NOME: 𝐷𝐴𝑅𝐾⃖  ☔*
-║ *INSTA: th.darkys*
-║ *WPP: wa.me/+5521997123716*
-║ *YOUTUBE: https://bit.ly/3qAjeNz*
+║ *NOME: LIBID  ☔*
+║ *INSTA: @figurinhasgg*
+║ *WPP: wa.me/+5527997619163*
 ║
 ║  *"Peita ou respeita 🐊🚩*
 ║  *"kibadores, vão se fuder"*
 ║
 ║
-╚═〘 𝐃𝐀𝐑𝐊 𝐁𝐎𝐓 〙`
+╚═〘 LIBID BOT 〙`
 }
 
 //Online.database
